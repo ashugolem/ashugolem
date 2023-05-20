@@ -1,12 +1,25 @@
 # Ashish Ranjan Singh
 
-## Full-Stack Developer | MERN Stack | C | C++ | Python
+## Full-Stack Developer | MERN Stack | C | C++ | Python | HTML | CSS | Javascript | Bootstrap
 
-👋 Welcome to my GitHub profile! I'm Ashish Ranjan Singh, a passionate full-stack developer with expertise in the MERN stack, as well as strong skills in C, C++, and Python.
+👋 Welcome to my GitHub profile! I'm Ashish Ranjan Singh, a passionate full-stack developer with expertise in the MERN stack.
 
 ### Skills
 
 - **MERN Stack**: I have extensive experience building robust and scalable web applications using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. From designing responsive user interfaces to implementing efficient server-side functionalities, I'm well-versed in the entire development process.
+- I have extensive experience in building web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in:
+
+    MongoDB: Leveraging MongoDB to design scalable and efficient database structures.
+    MongoDB
+
+    Express.js: Creating powerful and flexible APIs using Express.js to handle server-side logic.
+    Express.js
+
+    React.js: Developing intuitive and dynamic user interfaces using React.js for a seamless user experience.
+    React.js
+
+    Node.js: Building fast and scalable server-side applications with Node.js to handle heavy traffic and complex operations.
+    Node.js
 
 - **C**: I have a deep understanding of the C programming language and its low-level capabilities. I enjoy leveraging the power of C to solve complex programming challenges, optimize algorithms, and develop high-performance applications.
 
