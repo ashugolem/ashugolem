@@ -14,19 +14,12 @@
 
 - **Python**: I'm well-versed in Python and its versatile applications. Whether it's scripting, web development, data analysis, or machine learning, I leverage the flexibility and simplicity of Python to deliver effective solutions.
 
-### Projects
-
-- 🚀 Project 1: [MERN E-commerce Store](https://github.com/example/mern-ecommerce-store): Developed a feature-rich e-commerce store using the MERN stack. Implemented user authentication, product listings, shopping cart functionality, and secure payment gateways.
-
-- 🌟 Project 2: [Cryptography Library in C++](https://github.com/example/cryptography-library): Built a comprehensive cryptography library in C++, offering various encryption and decryption algorithms for secure data communication.
-
-- 🔬 Project 3: [Data Analysis with Python](https://github.com/example/data-analysis-python): Conducted an in-depth data analysis project using Python, exploring datasets, performing statistical analysis, and visualizing insights to drive decision-making.
 
 ### Get in Touch
 
-- 🌎 Website: [www.ashishsinghportfolio.com](https://www.ashishsinghportfolio.com)
+- 🌎 Website: https://www.ashishsinghportfolio.com
 - 📧 Email: singh.ashishhhh@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/example](https://www.linkedin.com/in/example)](https://www.linkedin.com/in/ashish-singh-429596249/)
+- 💼 LinkedIn: https://www.linkedin.com/in/ashish-singh-429596249/
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me through any of the provided channels. I'm always eager to engage with fellow developers and contribute to innovative solutions.
 
