@@ -18,7 +18,7 @@
 
 ### Get in Touch
 
-- 🌎 Website: https://www.ashishsinghportfolio.com
+- 🌎 Website: https://www.ashishsinghportfolio.com // under progress
 - 📧 Email: singh.ashishhhh@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ashish-singh-429596249/
 
