@@ -20,7 +20,7 @@
 
 - 🌎 Website: https://www.ashishsinghportfolio.com // under progress
 - 📧 Email: singh.ashishhhh@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ashish-singh-429596249/
+- 💼 LinkedIn: (https://www.linkedin.com/in/ashish-ranjan-singh-429596249/)
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me through any of the provided channels. I'm always eager to engage with fellow developers and contribute to innovative solutions.
 
