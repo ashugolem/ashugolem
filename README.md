@@ -1,6 +1,6 @@
 # Ashish Ranjan Singh
 
-## Full-Stack Developer || C | C++ | Python | HTML | CSS | Javascript | Bootstrap | ReactJs |
+## Full-Stack Developer | MongoDB | Expressjs | ReactJs | NextJs | NodeJs | HTML | CSS | Javascript | Bootstrap | C | C++ | Python |
 
 👋 Welcome to my GitHub profile! I'm Ashish Ranjan Singh, a passionate full-stack developer with expertise in the MERN stack.
 
