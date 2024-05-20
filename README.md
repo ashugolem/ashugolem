@@ -15,6 +15,8 @@
 
 - **Python**: I'm well-versed in Python and its versatile applications. Whether it's scripting, web development, data analysis, or machine learning, I leverage the flexibility and simplicity of Python to deliver effective solutions.
 
+### Major Project
+Smart Library Management System : https://lms.projectashish.tech
 
 ### Get in Touch
 
